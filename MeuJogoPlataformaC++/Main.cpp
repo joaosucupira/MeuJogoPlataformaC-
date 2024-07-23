@@ -1,5 +1,7 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
+// Colaboradores:
+// João Sucupira
 
 int main()
 {
